@@ -1,0 +1,1834 @@
+{
+ "config": {
+  "whatsapp": "628816781623",
+  "x": "https://x.com/chubbysstreyzy",
+  "telegram": "https://t.me/testichubbysstrey",
+  "spotify": ""
+ },
+ "products": [
+  {
+   "name": "NETFLIX",
+   "category": "Streaming",
+   "plans": [
+    {
+     "label": "1P1U",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 45000
+    },
+    {
+     "label": "2 Bulan",
+     "price": 88000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 128000
+    },
+    {
+     "label": "1P2U",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 34000
+    },
+    {
+     "label": "2 Bulan",
+     "price": 74000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 116000
+    },
+    {
+     "label": "ANTI LIMIT",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 62000
+    },
+    {
+     "label": "SEMI PRIVATE (bisa 2 device)",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 65000
+    },
+    {
+     "label": "2 Bulan",
+     "price": 94000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 194000
+    },
+    {
+     "label": "PRIVATE",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 220000
+    },
+    {
+     "label": "Free Viu Anti Limit setahun",
+     "head": true
+    }
+   ]
+  },
+  {
+   "name": "CANVA",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "Invite tim",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 12000
+    },
+    {
+     "label": "2 Bulan",
+     "price": 14000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 28000
+    },
+    {
+     "label": "6 Bulan",
+     "price": 36000
+    },
+    {
+     "label": "1 Tahun",
+     "price": 48000
+    },
+    {
+     "label": "Lifetime garansi 6b",
+     "price": 50000
+    },
+    {
+     "label": "Lifetime garansi 10b",
+     "price": 58000
+    },
+    {
+     "label": "Designer  + 2k",
+     "head": true
+    }
+   ]
+  },
+  {
+   "name": "IQIYI",
+   "category": "Streaming",
+   "plans": [
+    {
+     "label": "Sharing Plan Standar",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 18000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 34000
+    },
+    {
+     "label": "1 Tahun",
+     "price": 42000
+    },
+    {
+     "label": "Sharing Plan Premium",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 20000
+    },
+    {
+     "label": "1 Tahun",
+     "price": 48000
+    },
+    {
+     "label": "Anti Limit",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 32000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "14 hari",
+     "price": 20000
+    },
+    {
+     "label": "1 Bulan",
+     "price": 42000
+    }
+   ]
+  },
+  {
+   "name": "WETV",
+   "category": "Streaming",
+   "plans": [
+    {
+     "label": "Sharing",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 16000
+    },
+    {
+     "label": "1 Bulan (3 user)",
+     "price": 38000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 65000
+    },
+    {
+     "label": "Anti Limit",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 30000
+    },
+    {
+     "label": "2 Bulan",
+     "price": 46000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 45000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 105000
+    }
+   ]
+  },
+  {
+   "name": "YOUKU",
+   "category": "Streaming",
+   "plans": [
+    {
+     "label": "Sharing",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 15000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 33000
+    },
+    {
+     "label": "1 Tahun",
+     "price": 42000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 40000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 92000
+    }
+   ]
+  },
+  {
+   "name": "CAPCUT",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "IOS / PC AMBIL PRIVATE YA‼️",
+     "head": true
+    },
+    {
+     "label": "Sharing 3user",
+     "head": true
+    },
+    {
+     "label": "7 Hari",
+     "price": 25000
+    },
+    {
+     "label": "1 Bulan",
+     "price": 30000
+    },
+    {
+     "label": "3 Bulan (No Renewal)",
+     "price": 69000
+    },
+    {
+     "label": "6 Bulan (No Renewal)",
+     "price": 98000
+    },
+    {
+     "label": "Sharing 2u",
+     "head": true
+    },
+    {
+     "label": "7 Hari",
+     "price": 28000
+    },
+    {
+     "label": "1 Bulan",
+     "price": 38000
+    },
+    {
+     "label": "3 Bulan (No Renewal )",
+     "price": 98000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "7 Hari",
+     "price": 29000
+    },
+    {
+     "label": "1 Bulan",
+     "price": 55000
+    },
+    {
+     "label": "3 Bulan ( No Renewal)",
+     "price": 155000
+    }
+   ]
+  },
+  {
+   "name": "VIU",
+   "category": "Streaming",
+   "plans": [
+    {
+     "label": "Private Anti Limit",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 15000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 23000
+    },
+    {
+     "label": "6 Bulan",
+     "price": 29000
+    },
+    {
+     "label": "1 Tahun",
+     "price": 34000
+    },
+    {
+     "label": "Private Biasa",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 10000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 25000
+    },
+    {
+     "label": "6 Bulan",
+     "price": 32000
+    },
+    {
+     "label": "1 Tahun",
+     "price": 39000
+    },
+    {
+     "label": "Lifetime",
+     "head": true
+    },
+    {
+     "label": "Garansi 6 bulan",
+     "price": 45000
+    },
+    {
+     "label": "Garansi 12 bulan",
+     "price": 55000
+    }
+   ]
+  },
+  {
+   "name": "DISNEY+",
+   "category": "Streaming",
+   "plans": [
+    {
+     "label": "Sharing",
+     "head": true
+    },
+    {
+     "label": "1 Hari",
+     "price": 8000
+    },
+    {
+     "label": "2 Hari",
+     "price": 10000
+    },
+    {
+     "label": "7 Hari",
+     "price": 25000
+    },
+    {
+     "label": "1 Bulan (10user)",
+     "price": 35000
+    },
+    {
+     "label": "1 Bulan (6user)",
+     "price": 39000
+    },
+    {
+     "label": "1 Bulan (3user)",
+     "price": 66000
+    },
+    {
+     "label": "Anti Limit",
+     "head": true
+    },
+    {
+     "label": "7 Hari",
+     "price": 45000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 178000
+    }
+   ]
+  },
+  {
+   "name": "CAMSCANNER",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 16000
+    },
+    {
+     "label": "2 Bulan",
+     "price": 25000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 32000
+    },
+    {
+     "label": "6 Bulan",
+     "price": 39000
+    },
+    {
+     "label": "1 Tahun",
+     "price": 59000
+    }
+   ]
+  },
+  {
+   "name": "GEMINI AI",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "PRIVATE ( Invite Acc customer + renewal setiap bulan )",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 28000
+    },
+    {
+     "label": "2 Bulan",
+     "price": 44000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 58000
+    },
+    {
+     "label": "6 Bulan",
+     "price": 75000
+    },
+    {
+     "label": "12 Bulan (Garansi 6 bulan )",
+     "price": 120000
+    },
+    {
+     "label": "12 Bulan ( Garansi 12 bulan )",
+     "price": 180000
+    },
+    {
+     "label": "PRIVATE ( ACC CUSTOMER + NO RENEWAL )",
+     "head": true
+    },
+    {
+     "label": "2 Bulan",
+     "price": 58000
+    },
+    {
+     "label": "3 Bulan (Garansi 2 bulan)",
+     "price": 89000
+    },
+    {
+     "label": "Pakai email seller +3k",
+     "head": true
+    }
+   ]
+  },
+  {
+   "name": "AMAZON PRIME",
+   "category": "Streaming",
+   "plans": [
+    {
+     "label": "Sharing",
+     "head": true
+    },
+    {
+     "label": "1 hari",
+     "price": 5000
+    },
+    {
+     "label": "3 hari",
+     "price": 12000
+    },
+    {
+     "label": "7 hari",
+     "price": 18000
+    },
+    {
+     "label": "1 Bulan",
+     "price": 28000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 35000
+    }
+   ]
+  },
+  {
+   "name": "BSTATION",
+   "category": "Streaming",
+   "plans": [
+    {
+     "label": "Sharing",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 18000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 28000
+    },
+    {
+     "label": "1 Tahun",
+     "price": 38000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 Bulan : 50.000",
+     "head": true
+    }
+   ]
+  },
+  {
+   "name": "HBO MAX",
+   "category": "Streaming",
+   "plans": [
+    {
+     "label": "Sharing",
+     "head": true
+    },
+    {
+     "label": "1 Bulan (Standar)",
+     "price": 24000
+    },
+    {
+     "label": "1 Bulan (Ultimate)",
+     "price": 28000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 Bulan (Standar)",
+     "price": 65000
+    },
+    {
+     "label": "1 Bulan (Ultimate)",
+     "price": 78000
+    }
+   ]
+  },
+  {
+   "name": "SPOTIFY",
+   "category": "Music",
+   "plans": [
+    {
+     "label": "Famplan",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 38000
+    },
+    {
+     "label": "2 bulan",
+     "price": 50000
+    },
+    {
+     "label": "3 bulan",
+     "price": 70000
+    },
+    {
+     "label": "Indplan",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 48000
+    },
+    {
+     "label": "2 bulan",
+     "price": 60000
+    }
+   ]
+  },
+  {
+   "name": "YOUTUBE",
+   "category": "Music",
+   "plans": [
+    {
+     "label": "Famplan (Acc customer)",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 19000
+    },
+    {
+     "label": "2 bulan",
+     "price": 28000
+    },
+    {
+     "label": "Indplan",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 30000
+    },
+    {
+     "label": "Mixplan",
+     "head": true
+    },
+    {
+     "label": "3 bulan",
+     "price": 49000
+    },
+    {
+     "label": "4 bulan",
+     "price": 58000
+    }
+   ]
+  },
+  {
+   "name": "KILONOTES ANDROID & IPAD ONLY",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "LIFETIME",
+     "price": 35000
+    }
+   ]
+  },
+  {
+   "name": "ZOOM PRO LINK",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "100p",
+     "head": true
+    },
+    {
+     "label": "1 Jam",
+     "price": 10000
+    },
+    {
+     "label": "2 Jam",
+     "price": 11000
+    },
+    {
+     "label": "3 Jam",
+     "price": 12000
+    },
+    {
+     "label": "4 Jam",
+     "price": 13000
+    },
+    {
+     "label": "1 hari (00.00-23.59)",
+     "price": 20000
+    },
+    {
+     "label": "24 jam",
+     "price": 25000
+    },
+    {
+     "label": "Per jam berlaku kelipatan +1k",
+     "head": true
+    },
+    {
+     "label": "300p",
+     "head": true
+    },
+    {
+     "label": "1 hari",
+     "price": 48000
+    },
+    {
+     "label": "500p",
+     "head": true
+    },
+    {
+     "label": "1 hari",
+     "price": 75000
+    },
+    {
+     "label": "1000p",
+     "head": true
+    },
+    {
+     "label": "1 hari",
+     "price": 118000
+    }
+   ]
+  },
+  {
+   "name": "CLAUDE AI",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Sharing 5u",
+     "head": true
+    },
+    {
+     "label": "7 hari",
+     "price": 110000
+    },
+    {
+     "label": "1 bulan",
+     "price": 170000
+    },
+    {
+     "label": "Sharing 3u",
+     "head": true
+    },
+    {
+     "label": "7 hari",
+     "price": 120000
+    },
+    {
+     "label": "1 bulan",
+     "price": 190000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "7 hari",
+     "price": 220000
+    },
+    {
+     "label": "1 bulan",
+     "price": 550000
+    }
+   ]
+  },
+  {
+   "name": "SCITE AI",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "7 hari",
+     "price": 18000
+    },
+    {
+     "label": "14 hari",
+     "price": 25000
+    },
+    {
+     "label": "1 bulan",
+     "price": 45000
+    }
+   ]
+  },
+  {
+   "name": "PAPERGUIDE",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Sharing 2u",
+     "head": true
+    },
+    {
+     "label": "7 hari",
+     "price": 30000
+    },
+    {
+     "label": "1 bulan",
+     "price": 40000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "7 hari",
+     "price": 40000
+    },
+    {
+     "label": "1 bulan",
+     "price": 60000
+    },
+    {
+     "label": "Alternatif consensus dan scispace",
+     "head": true
+    }
+   ]
+  },
+  {
+   "name": "GRAMMARLY PRO",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "SHARING (2-3U)",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 32000
+    },
+    {
+     "label": "2 Bulan",
+     "price": 42000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 53000
+    },
+    {
+     "label": "6 Bulan",
+     "price": 88000
+    },
+    {
+     "label": "PRIVAT INVITE (email cust/seller)",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 40000
+    },
+    {
+     "label": "2 Bulan",
+     "price": 53000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 63000
+    },
+    {
+     "label": "6 Bulan",
+     "price": 90000
+    },
+    {
+     "label": "Renew setiap minggu untuk bulanan",
+     "head": true
+    }
+   ]
+  },
+  {
+   "name": "VSCO",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "SHARING PLUS",
+     "head": true
+    },
+    {
+     "label": "1 tahun",
+     "price": 28000
+    },
+    {
+     "label": "SHARING PRO",
+     "head": true
+    },
+    {
+     "label": "1 tahun",
+     "price": 32000
+    }
+   ]
+  },
+  {
+   "name": "LIGHTROOM",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "SHARING",
+     "head": true
+    },
+    {
+     "label": "1 TAHUN + 200 PRESET",
+     "price": 35000
+    }
+   ]
+  },
+  {
+   "name": "I LOVE PDF",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "Sharing",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 15000
+    },
+    {
+     "label": "6 bulan",
+     "price": 28000
+    },
+    {
+     "label": "1 tahun:",
+     "price": 38000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 35000
+    }
+   ]
+  },
+  {
+   "name": "PROCREATE",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "IPAD LIFETIME",
+     "price": 35
+    },
+    {
+     "label": "POCKET IOS LIFETIME",
+     "price": 33
+    }
+   ]
+  },
+  {
+   "name": "DAZZCAM",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "Lifetime",
+     "price": 33000
+    }
+   ]
+  },
+  {
+   "name": "GOODNOTES",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "1 tahun (alldev)",
+     "price": 35000
+    },
+    {
+     "label": "Lifetime (ios/iPad)",
+     "price": 35000
+    },
+    {
+     "label": "Alldevice Private",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 40000
+    },
+    {
+     "label": "—  Via invite email buyer",
+     "head": true
+    }
+   ]
+  },
+  {
+   "name": "WATTPAD",
+   "category": "Others",
+   "plans": [
+    {
+     "label": "SHARING",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 18000
+    },
+    {
+     "label": "1 tahun",
+     "price": 34000
+    }
+   ]
+  },
+  {
+   "name": "POLAR PREMIUM (ANDROID)",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "SHARING",
+     "head": true
+    },
+    {
+     "label": "1 Tahun (garansi 3b)",
+     "price": 35000
+    }
+   ]
+  },
+  {
+   "name": "KIRO AI",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "14 hari",
+     "price": 28000
+    },
+    {
+     "label": "1 bulan",
+     "price": 45000
+    }
+   ]
+  },
+  {
+   "name": "MEITU VIP BIASA",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "SHARING 2U ANDROID",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 38000
+    },
+    {
+     "label": "2 bulan",
+     "price": 60000
+    },
+    {
+     "label": "PRIVATE ANDROID & IOS",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 48000
+    },
+    {
+     "label": "2 bulan",
+     "price": 70000
+    }
+   ]
+  },
+  {
+   "name": "MEITU VIP+",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "SHARING 2U ANDROID",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 38000
+    },
+    {
+     "label": "2 bulan",
+     "price": 59000
+    },
+    {
+     "label": "PRIVATE ANDROID & IOS",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 60000
+    },
+    {
+     "label": "2 bulan",
+     "price": 105000
+    }
+   ]
+  },
+  {
+   "name": "MANGOTV",
+   "category": "Streaming",
+   "plans": [
+    {
+     "label": "SHARING 5U",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 23000
+    }
+   ]
+  },
+  {
+   "name": "QUIZIZ/ WAYGROUND",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 35000
+    }
+   ]
+  },
+  {
+   "name": "FREENOTES GARANSI 6 BULAN",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "Lifetime (android)",
+     "price": 45000
+    }
+   ]
+  },
+  {
+   "name": "NOTION AI",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Plan Notion Plus + AI",
+     "head": true
+    },
+    {
+     "label": "Private (Invite)",
+     "head": true
+    },
+    {
+     "label": "7 hari",
+     "price": 20000
+    },
+    {
+     "label": "14 hari",
+     "price": 29000
+    },
+    {
+     "label": "1 bulan",
+     "price": 38000
+    },
+    {
+     "label": "Plan Edu Plus (Tanpa AI)",
+     "head": true
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "Lifetime",
+     "price": 150000
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE ONE",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Private Famplan",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 18000
+    },
+    {
+     "label": "3 bulan",
+     "price": 28000
+    },
+    {
+     "label": "4 bulan",
+     "price": 38000
+    },
+    {
+     "label": "1 tahun",
+     "price": 100000
+    }
+   ]
+  },
+  {
+   "name": "QUILLBOT",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Sharing",
+     "head": true
+    },
+    {
+     "label": "7 hari",
+     "price": 15000
+    },
+    {
+     "label": "14 hari",
+     "price": 24000
+    },
+    {
+     "label": "1 bulan",
+     "price": 38000
+    }
+   ]
+  },
+  {
+   "name": "CHATGPT GO",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Sharing 5u",
+     "head": true
+    },
+    {
+     "label": "3 hari",
+     "price": 15000
+    },
+    {
+     "label": "7 hari",
+     "price": 25000
+    },
+    {
+     "label": "1 bulan",
+     "price": 40000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 125000
+    }
+   ]
+  },
+  {
+   "name": "CHATGPT PLUS",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Sharing 8u",
+     "head": true
+    },
+    {
+     "label": "1 Hari",
+     "price": 14000
+    },
+    {
+     "label": "3 Hari",
+     "price": 18000
+    },
+    {
+     "label": "5 Hari",
+     "price": 20000
+    },
+    {
+     "label": "7 Hari",
+     "price": 25000
+    },
+    {
+     "label": "14 Hari",
+     "price": 35000
+    },
+    {
+     "label": "1 Bulan",
+     "price": 50000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 280000
+    }
+   ]
+  },
+  {
+   "name": "ELICIT PRO",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "SHARING",
+     "head": true
+    },
+    {
+     "label": "7 Hari",
+     "price": 15000
+    },
+    {
+     "label": "14 Hari",
+     "price": 19000
+    },
+    {
+     "label": "1 Bulan",
+     "price": 29000
+    },
+    {
+     "label": "PRIVATE",
+     "head": true
+    },
+    {
+     "label": "7 Hari",
+     "price": 18000
+    },
+    {
+     "label": "14 Hari",
+     "price": 28000
+    },
+    {
+     "label": "1 Bulan",
+     "price": 39000
+    }
+   ]
+  },
+  {
+   "name": "NOTEBOOKLM",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Private Invite",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 28000
+    }
+   ]
+  },
+  {
+   "name": "KAHOOT",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Private 800P",
+     "head": true
+    },
+    {
+     "label": "3 hari",
+     "price": 18000
+    },
+    {
+     "label": "7 hari",
+     "price": 28000
+    },
+    {
+     "label": "14 hari",
+     "price": 38000
+    },
+    {
+     "label": "1 bulan",
+     "price": 44000
+    },
+    {
+     "label": "Private 2000P",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 65000
+    }
+   ]
+  },
+  {
+   "name": "SURFSHARK VPN",
+   "category": "Others",
+   "plans": [
+    {
+     "label": "SHARING",
+     "head": true
+    },
+    {
+     "label": "2 bulan",
+     "price": 30000
+    }
+   ]
+  },
+  {
+   "name": "ZOOM MEETING",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "PRIVATE",
+     "head": true
+    },
+    {
+     "label": "7 hari",
+     "price": 15000
+    },
+    {
+     "label": "14 hari",
+     "price": 20000
+    },
+    {
+     "label": "1 bulan",
+     "price": 29000
+    }
+   ]
+  },
+  {
+   "name": "TRELLO",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "PRIVATE",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 35000
+    }
+   ]
+  },
+  {
+   "name": "COURSERA",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "PRIVATE",
+     "head": true
+    },
+    {
+     "label": "7 hari",
+     "price": 28000
+    },
+    {
+     "label": "1 bulan",
+     "price": 38000
+    },
+    {
+     "label": "Renewal setiap Minggu",
+     "head": true
+    }
+   ]
+  },
+  {
+   "name": "ALIGHT MOTION  GARANSI 6 BULAN",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "SHARING",
+     "head": true
+    },
+    {
+     "label": "1 tahun",
+     "price": 20000
+    },
+    {
+     "label": "PRIVATE",
+     "head": true
+    },
+    {
+     "label": "1 tahun",
+     "price": 38000
+    }
+   ]
+  },
+  {
+   "name": "BEAUTYPLUS",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "1 Tahun Android",
+     "price": 36000
+    },
+    {
+     "label": "1 Tahun Ios",
+     "price": 33000
+    }
+   ]
+  },
+  {
+   "name": "CRUNCHYROLL",
+   "category": "Streaming",
+   "plans": [
+    {
+     "label": "SHARING",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 18000
+    },
+    {
+     "label": "PRIVATE",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 38000
+    }
+   ]
+  },
+  {
+   "name": "PICSART PRO",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "SHARING",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 28000
+    },
+    {
+     "label": "PRIVATE",
+     "head": true
+    },
+    {
+     "label": "1 minggu",
+     "price": 20000
+    },
+    {
+     "label": "1 bulan",
+     "price": 38000
+    }
+   ]
+  },
+  {
+   "name": "GETCONTACT",
+   "category": "Others",
+   "plans": [
+    {
+     "label": "1 Bulan",
+     "price": 19000
+    }
+   ]
+  },
+  {
+   "name": "REELSHORT",
+   "category": "Streaming",
+   "plans": [
+    {
+     "label": "SHARING",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 28000
+    }
+   ]
+  },
+  {
+   "name": "APPLE MUSIC",
+   "category": "Music",
+   "plans": [
+    {
+     "label": "FAMPLAN/IMESS",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 18000
+    },
+    {
+     "label": "2 bulan",
+     "price": 28000
+    },
+    {
+     "label": "FAMHEAD",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 38000
+    },
+    {
+     "label": "INDPLAN",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 35000
+    },
+    {
+     "label": "> akun seller, andro only",
+     "head": true
+    }
+   ]
+  },
+  {
+   "name": "RCTI+ SPORT",
+   "category": "Streaming",
+   "plans": [
+    {
+     "label": "PRIVATE",
+     "head": true
+    },
+    {
+     "label": "7 hari",
+     "price": 28000
+    },
+    {
+     "label": "1 bulan",
+     "price": 48000
+    }
+   ]
+  },
+  {
+   "name": "MELOLO PREMIUM",
+   "category": "Streaming",
+   "plans": [
+    {
+     "label": "SHARING",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 30000
+    },
+    {
+     "label": "PRIVATE",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 54000
+    }
+   ]
+  },
+  {
+   "name": "Duolingo",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Private Indplan (No Renew)",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 20000
+    },
+    {
+     "label": "2 bulan",
+     "price": 30000
+    },
+    {
+     "label": "1 tahun",
+     "price": 90000
+    },
+    {
+     "label": "Private Famplan/Invite (No Renew)",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 25000
+    },
+    {
+     "label": "2 bulan",
+     "price": 37000
+    },
+    {
+     "label": "Private Famhead",
+     "head": true
+    },
+    {
+     "label": "14 hari",
+     "price": 20000
+    },
+    {
+     "label": "1 bulan",
+     "price": 30000
+    },
+    {
+     "label": "— Bisa invite 5 member",
+     "head": true
+    }
+   ]
+  },
+  {
+   "name": "PICWISH",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "1 Tahun",
+     "price": 35000
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE FLOW",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 Bulan",
+     "price": 40000
+    },
+    {
+     "label": "2 Bulan",
+     "price": 60000
+    },
+    {
+     "label": "3 Bulan",
+     "price": 88000
+    }
+   ]
+  },
+  {
+   "name": "FACETUNE",
+   "category": "Editing",
+   "plans": [
+    {
+     "label": "Sharing 2u",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 30000
+    },
+    {
+     "label": "2 bulan",
+     "price": 58000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 45000
+    },
+    {
+     "label": "2 bulan",
+     "price": 68000
+    }
+   ]
+  },
+  {
+   "name": "WPS OFFICE",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "ⓘ  WPS Pro",
+     "head": true
+    },
+    {
+     "label": "Sharing",
+     "head": true
+    },
+    {
+     "label": "7 hari",
+     "price": 15000
+    },
+    {
+     "label": "1 bulan",
+     "price": 28000
+    },
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 40000
+    },
+    {
+     "label": "ⓘ  WPS Pro + AI",
+     "head": true
+    },
+    {
+     "label": "Sharing",
+     "head": true
+    },
+    {
+     "label": "7 hari",
+     "price": 18000
+    },
+    {
+     "label": "1 bulan",
+     "price": 28000
+    }
+   ]
+  },
+  {
+   "name": "STUDOCU",
+   "category": "Education",
+   "plans": [
+    {
+     "label": "Private",
+     "head": true
+    },
+    {
+     "label": "1 bulan",
+     "price": 35000
+    }
+   ]
+  }
+ ]
+}
